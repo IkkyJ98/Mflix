@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+     body {
+        background-image: url();
+        background-color: rgb(218, 121, 18);
+     } 
+
+    header h1 {
+        text-align:center;
+        padding-top:15px;
+        padding-bottom:15px;
+        color: rgb(14, 2, 2);
+        text-align: left;
+    
+    }
+
+    header{
+        margin-top:auto;
+        background-color:#fefdfb;
+    }
+
+    .button{
+        float: right;
+        padding: 11px;
+        text-align: center;
+        font-size: large;
+        color: rgb(83, 28, 28);
+        border-style: none;
+    }
+
+    h1{
+        padding-bottom: 300px;
+        padding-top:100px;
+        text-align: center;
+        color:#edc67e;
+        font-size:70px;
+    }
+
+    form p{
+        font-family: serif;
+        font-size: 20px; 
+        color: rgb(255, 255, 255);
+        text-align: center;
+
+    }
+
+    #email {
+        width: 40%;
+        padding: 12px 10px;
+        margin: 10px;
+        box-sizing: border-box;
+        border-style: none;
+      }
+        
+    #log {
+        padding: 5px;
+        text-align: center;
+        font-size: large;
+        color: rgb(83, 28, 28);
+        border-style: none;
+    
+    }  
+
+    footer{
+        margin-top:70px;
+        background-color:#ffa500;
+        color:white;
+    }
+    footer p{
+        text-align:center;
+        padding-top:15px;
+        padding-bottom:15px;
+    }
