@@ -64,17 +64,17 @@
     
     }  
 
-        div {
+        /* div {
             text-align: center;
             margin-bottom: 40px;
-        }
+        } */
     
-        li::marker {
+        /* li::marker {
             font-size: 24px;
             font-weight: 700;
-        }
+        } */
     
-        li {
+        /* li {
             padding: 12px;
             margin-bottom: 6px;
             text-decoration: underline;
@@ -82,7 +82,7 @@
             text-decoration-thickness: 5px;
             text-underline-offset: 10px;
             line-height: 40px;
-        }
+        } */
 
     footer{
         margin-top:70px;
