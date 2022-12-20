@@ -3,10 +3,9 @@
     padding: 0px;
     }
 
-     body {
+     body{ 
         background-image: url(images/RT_300EssentialMovies_700X250.jpg);
-        background-repeat: no-repeat;
-        /* background-color: rgb(218, 121, 18); */
+        
      } 
 
     header h1 {
