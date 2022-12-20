@@ -6,7 +6,7 @@
      body{ 
         background-image: url(images/1509983908-best-movies-2017.jpg);
         background-size: cover;
-        
+        max-width: 1920px;
      } 
 
     header h1 {
@@ -14,7 +14,6 @@
         padding-top:15px;
         padding-bottom:15px;
         color: rgb(14, 2, 2);
-        text-align: left;
     
     }
 
