@@ -10,10 +10,11 @@
      } 
 
     header h1 {
-        text-align:center;
+        /* text-align:center; */
         padding-top:15px;
         padding-bottom:15px;
         color: rgb(14, 2, 2);
+        text-align: left;
     
     }
 
